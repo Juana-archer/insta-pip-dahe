@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+*.egg
+.ipynb_checkpoints
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Dossiers temporaires
+fichiers_decryptes/
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
