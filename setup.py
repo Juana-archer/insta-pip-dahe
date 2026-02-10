@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="insta-dahe",
+    name="insta_kendou",
     version="1.0.0",
     author="Juana Archer",
     author_email="faniry1d@gmail.com",
